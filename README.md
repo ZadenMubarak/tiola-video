@@ -1,7 +1,10 @@
 # The Livepeer x Tiola video-sharing app
 
+App is mobile responsive
+![image](https://user-images.githubusercontent.com/84284739/211152481-45c7bc86-f35e-441e-86b9-eb35393e0a85.png)
 
 
+#
 ## Summary:
 
 This video-sharing Dapp is a decentralized application that allows users to share and stream video content in a decentralized manner. The Dapp utilizes the power of blockchain technology and peer-to-peer networks to create a platform that is fast, secure, and censorship-resistant.
