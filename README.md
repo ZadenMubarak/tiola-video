@@ -24,7 +24,7 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 *********************************************************************************************************
 
 
-*Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:*
+### Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:*
   1  Operating system: The Dapp should be compatible with multiple operating systems, including Windows, MacOS, Linux, iOS, and Android.
   2  Browser compatibility: The Dapp should be accessible through popular web browsers such as Chrome, Firefox, Safari, and Edge.
   3  Video support: The Dapp should support a range of video formats and resolutions, including MP4, AVI, MOV, and more.
