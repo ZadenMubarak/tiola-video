@@ -1,7 +1,8 @@
 # The Livepeer x Tiola video-sharing app
 
 App is mobile responsive
-![image](https://user-images.githubusercontent.com/84284739/211152481-45c7bc86-f35e-441e-86b9-eb35393e0a85.png)
+
+![image](https://user-images.githubusercontent.com/84284739/211152522-9275bc3e-bebb-4b73-9ffb-0ddeef284410.png)
 
 
 #
