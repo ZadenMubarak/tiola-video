@@ -9,6 +9,7 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 
 ***********************************************************************************
 *Here are some potential milestones for a video-sharing Dapp that uses LivePeer and XMTP chat:*
+`
 1  Development and testing of the Dapp's core functionality, including video upload, storage, and streaming.
 2  Integration of LivePeer for decentralized video transcoding and streaming.
 3  Integration of XMTP chat for decentralized communication between users.
@@ -19,6 +20,7 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 8  Introduction of new features and functionality based on user feedback and demand.
 9  Expansion of the Dapp to new platforms and regions.
 10  Maintenance and updates to ensure the Dapp remains secure, stable, and user-friendly.
+`
 *********************************************************************************************************
 
 
