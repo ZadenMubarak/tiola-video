@@ -19,21 +19,21 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 1  Development and testing of the Dapp's core functionality, including video upload, storage, and streaming.
 **********************************************************************************************************
 2  Integration of LivePeer for decentralized video transcoding and streaming.
-***
+# ***
 3  Integration of XMTP chat for decentralized communication between users.
-***
+# ***
 4  Launch of a beta version of the Dapp for testing and feedback from a small group of users.
-***
+# ***
 5  Refinement of the Dapp based on beta testing feedback.
-***
+# ***
 6  Launch of the Dapp to the public.
-***
+# ***
 7  Growth of the Dapp's user base and content library.
-***
+# ***
 8  Introduction of new features and functionality based on user feedback and demand.
-***
+# ***
 9  Expansion of the Dapp to new platforms and regions.
-***
+# ***
 10  Maintenance and updates to ensure the Dapp remains secure, stable, and user-friendly.
 `
 *********************************************************************************************************
