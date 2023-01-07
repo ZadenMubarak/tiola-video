@@ -1,5 +1,7 @@
 # The Livepeer x Tiola video-sharing app
 
+
+
 ## Summary:
 
 This video-sharing Dapp is a decentralized application that allows users to share and stream video content in a decentralized manner. The Dapp utilizes the power of blockchain technology and peer-to-peer networks to create a platform that is fast, secure, and censorship-resistant.
@@ -36,8 +38,10 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
   9  Analytics: The Dapp should provide analytics and metrics for content creators to track the performance of their videos and engagement with their audience.
   10  Security: The Dapp should prioritize security and privacy, using encryption and other measures to protect user data and communication.
     Scalability: The Dapp should be able to handle a large volume of users and video content without experiencing downtime or performance issues.
+***********
 
-
+Here is a what the home page looks like:
+![image](https://user-images.githubusercontent.com/84284739/211152303-b7df6d0c-5bb5-461b-a989-c7b4f8412ef3.png)
 
 
 
