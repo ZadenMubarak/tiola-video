@@ -41,17 +41,29 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 
 ## Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:*
   1  Operating system: The Dapp should be compatible with multiple operating systems, including Windows, MacOS, Linux, iOS, and Android.
+  ***
   2  Browser compatibility: The Dapp should be accessible through popular web browsers such as Chrome, Firefox, Safari, and Edge.
+  **
   3  Video support: The Dapp should support a range of video formats and resolutions, including MP4, AVI, MOV, and more.
+  ***
   4  Live streaming: The Dapp should support live streaming of video content through the integration of LivePeer.
+  ***
   5  Decentralized storage: The Dapp should use a decentralized storage solution, such as InterPlanetary File System (IPFS), to store and serve video content.
+  ***
   6  Chat functionality: The Dapp should offer chat functionality through the integration of XMTP chat, allowing users to communicate with each other in a decentralized manner.
+  ***
   7  User accounts: The Dapp should allow users to create and manage their own accounts, including the ability to set privacy settings and manage their content.
+  ***
   8  Monetization: The Dapp should offer various monetization options for content creators, such as subscription models, pay-per-view, and donations.
+  ***
   9  Analytics: The Dapp should provide analytics and metrics for content creators to track the performance of their videos and engagement with their audience.
+  ***
   10  Security: The Dapp should prioritize security and privacy, using encryption and other measures to protect user data and communication.
     Scalability: The Dapp should be able to handle a large volume of users and video content without experiencing downtime or performance issues.
 ***********
+***********
+***********
+#
 
 Here is a what the home page looks like:
 ![image](https://user-images.githubusercontent.com/84284739/211152303-b7df6d0c-5bb5-461b-a989-c7b4f8412ef3.png)
