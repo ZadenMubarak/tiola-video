@@ -16,8 +16,8 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 ***********************************************************************************
 ***********************************************************************************
 ***********************************************************************************
-####################
-################
+##
+#
 ## Here are some potential milestones for a video-sharing Dapp that uses LivePeer and XMTP chat:*
 `
 1  Development and testing of the Dapp's core functionality, including video upload, storage, and streaming.
@@ -42,8 +42,8 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 `
 *********************************************************************************************************
 ***********************************************************************************
-###
-###
+##
+##
 
 
 ## Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:*
