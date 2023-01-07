@@ -8,7 +8,7 @@ XMTP chat is a decentralized messaging protocol that enables secure and private 
 Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentralized infrastructure for video sharing and communication. Users can share and stream videos with confidence, knowing that their content is secure and cannot be censored or manipulated by centralized entities.
 
 ***********************************************************************************
-#Here are some potential milestones for a video-sharing Dapp that uses LivePeer and XMTP chat:
+**Here are some potential milestones for a video-sharing Dapp that uses LivePeer and XMTP chat:
 1  Development and testing of the Dapp's core functionality, including video upload, storage, and streaming.
 2  Integration of LivePeer for decentralized video transcoding and streaming.
 3  Integration of XMTP chat for decentralized communication between users.
@@ -22,7 +22,7 @@ Together, LivePeer and XMTP chat provide the Dapp with a scalable and decentrali
 *********************************************************************************************************
 
 
-#Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:
+**Here are some potential specifications for a web3 video-sharing Dapp that uses LivePeer and XMTP chat:
   1  Operating system: The Dapp should be compatible with multiple operating systems, including Windows, MacOS, Linux, iOS, and Android.
   2  Browser compatibility: The Dapp should be accessible through popular web browsers such as Chrome, Firefox, Safari, and Edge.
   3  Video support: The Dapp should support a range of video formats and resolutions, including MP4, AVI, MOV, and more.
