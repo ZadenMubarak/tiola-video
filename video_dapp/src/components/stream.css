@@ -6,6 +6,117 @@ body{
     position: absolute;
     background-color: grey;
     color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 900px;
+    height: 500px;
+    top: 96px;
+    
+}
+
+.chatcont{
+    position: absolute;
+    background-color: aliceblue;
+    width: 350px;
+    height: 570px;
+    left: 1000px;
+}
+
+.top{
+    position: absolute;
+    
     width: 100%;
-    height: 300%;
+}
+
+.top img{
+    width: 100%;
+    height: 100%;
+}
+
+.chatcont .settings{
+    position: absolute;
+    background-color: rgb(17, 17, 17);
+    width: 90%;
+    height: 60px;
+    color: rgb(0, 255, 13);
+    border-radius: 4px;
+    left: 2%;
+    top: 88%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h2{
+    position: relative;
+    top: 50%;
+}
+
+.h22{
+    position: absolute;
+    top: 590px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.msgdiv{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    top: 11%;
+    width: 100%;
+    height: 90px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);;
+
+}
+
+.msgdiv p{
+    position: relative;
+    color: grey;
+    left: 20%;
+    top: -106px;
+}
+
+.date{
+    position: relative;
+    left: 74%;
+    color: grey;
+    top: -90px;
+}
+
+.msg4{
+    position: relative;
+    left: 20%;
+    top: -50px;
+}
+
+.ava1{
+    position: relative;
+    top: 10px;
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+
+.ava1 h5{
+    position: absolute;
+    left: 20%;
+    top: -2px;
+}
+
+.con{
+    position: absolute;
+    left: 40px;
+
+}
+
+.wallet{
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 50px;
 }
