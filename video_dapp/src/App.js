@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Box } from '@mui/material';
 
 import { ChannelDetail, VideoDetail, SearchFeed, Navbar, Feed } from './components';
+import Livestream from "./components/Livestream";
 
 const App = () => (
   <BrowserRouter>
@@ -12,6 +13,7 @@ const App = () => (
         <Route path='/video/:id' element={<VideoDetail />} />
         <Route path='/channel/:id' element={<ChannelDetail />} />
         <Route path='/search/:searchTerm' element={<SearchFeed />} />
+        <Route path="/livestream/zaden%20ngobeni" element={<Livestream/>}/>
       </Routes>
     </Box>
   </BrowserRouter>
