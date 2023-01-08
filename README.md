@@ -2,7 +2,7 @@
 
 App is mobile responsive
 
-![image](https://user-images.githubusercontent.com/84284739/211152522-9275bc3e-bebb-4b73-9ffb-0ddeef284410.png)
+![image](https://user-images.githubusercontent.com/84284739/211195754-130ef34a-a01e-4166-8183-f09c1570263b.png)
 
 
 #
