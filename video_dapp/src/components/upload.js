@@ -19,11 +19,12 @@ import {
     },
    };
    
-   function App() {
+   function Upload() {
     return (
     <LivepeerConfig client={client} theme={livepeerTheme}>
     <Livepeer />
     </LivepeerConfig>
     );
    }
-   
+
+export default Upload;
