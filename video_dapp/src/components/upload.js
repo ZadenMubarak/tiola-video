@@ -4,10 +4,9 @@ import {
     createReactClient,
     studioProvider,
    } from '@livepeer/react';
-   import { Livepeer } from './Livepeer';
    
    const client = createReactClient({
-    provider: studioProvider({ apiKey: 'NlblRiNgpnc1FuQmhnRVhmdkhycDgxNFg0b0lBbVg1VjlnZzh' }),
+    provider: studioProvider({ apiKey: '0626dff7-e0c9-4403-b2f9-59041fe28b3a' }),
    });
    
    const livepeerTheme: ThemeConfig = {
