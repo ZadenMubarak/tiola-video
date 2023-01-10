@@ -18,7 +18,7 @@ export const logo = 'https://user-images.githubusercontent.com/84284739/20944464
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'LivePeer and XMTP', icon: <CodeIcon />, },
+  { name: 'encode', icon: <CodeIcon />, },
   { name: 'Machine learning', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   
