@@ -11,7 +11,7 @@ const Navbar = () => (
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
       <img src={logo} alt="logo" height={45} />
     </Link>
-    <button className="button-9">Connect wallet</button>
+    <button className="button-9"> Connect Metamask </button>
     <SearchBar />
   </Stack>
 );
